@@ -1,0 +1,22 @@
+{
+  "题目任务": "在数轴上找到0.56的准确位置",
+  "题目描述": "给定一个标有十分位和百分位的数轴。数轴从0到1，其中每个大刻度代表一个十分位，每个小刻度代表一个百分位。",
+  "任务": [
+    "确定0.56在数轴上的位置",
+    "说明0.56位于哪两个十分位之间",
+    "计算并标出0.56具体位于哪个百分位"
+  ],
+  "提示": [
+    "Place the number on this number line. Look at how many tenths are in 0.56? Then, look at how many hundredths.",
+    "There are 5 tenths, and 6 hundredths. The number is hidden 6 hundredths AFTER 0.5 tickmark! To get these hundredths, imagine another ten division between the 0.5 and 0.6 tickmarks.",
+    "Each tickmark represents a tenth. In between which tenths would you find 0.56?",
+    "Count 5 tickmark(s) to the right of 0, and go 6 hundredths parts more. Note that 0.56 is close to halfway between 0.5 and 0.6.",
+    "You know that 0.56 is between 0.5 and 0.6, but where is it closer? Is it closer to 0.5? 0.6? How about the middle, 0.55?",
+    "If this is difficult to do, why don't you try zooming in?"
+  ],
+  "验证问题": [
+    "0.56在数轴上具体处于哪个百分位？",
+    "0.56是更接近0.5还是0.6？"
+  ],
+  "正确答案": "0.545 - 0.571"
+}

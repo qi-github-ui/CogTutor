@@ -1,0 +1,2878 @@
+[
+    {
+        "学生id (对应的Anon Student Id)": "Stu_00",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.706,
+                "answer (answer列对应的值)": 0.158,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.698,
+                "answer (answer列对应的值)": 0.158,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.704,
+                "answer (answer列对应的值)": 0.158,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.701,
+                "answer (answer列对应的值)": 0.158,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.158,
+                "answer (answer列对应的值)": 0.158,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了5次，第1次的值是0.706，输入的InCorrect；，第2次的值是0.698，输入的InCorrect；，第3次的值是0.704，输入的InCorrect；，第4次的值是0.701，输入的InCorrect；，第5次的值是0.158，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_01",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.16,
+                "answer (answer列对应的值)": 0.16,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.16，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_02",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.95,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.748,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.551,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.154,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是0.95，输入的InCorrect；，第2次的值是0.748，输入的InCorrect；，第3次的值是0.551，输入的InCorrect；，第4次的值是0.154，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_03",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.149,
+                "answer (answer列对应的值)": 0.149,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.149，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_04",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.15，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_05",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.149,
+                "answer (answer列对应的值)": 0.149,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.149，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_06",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.145,
+                "answer (answer列对应的值)": 0.145,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.145，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_07",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.15，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_08",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.967,
+                "answer (answer列对应的值)": 0.149,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.937,
+                "answer (answer列对应的值)": 0.149,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.061,
+                "answer (answer列对应的值)": 0.149,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.149,
+                "answer (answer列对应的值)": 0.149,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是0.967，输入的InCorrect；，第2次的值是0.937，输入的InCorrect；，第3次的值是0.061，输入的InCorrect；，第4次的值是0.149，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_09",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.059,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.073,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.037,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.154,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是0.059，输入的InCorrect；，第2次的值是0.073，输入的InCorrect；，第3次的值是0.037，输入的InCorrect；，第4次的值是0.154，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_10",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.021,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.6,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.707,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.8,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.903,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.998,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.013,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.013,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.013,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.015,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.019,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.019,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.019,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.0,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.041,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.006,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.002,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.4,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.3,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.502,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.501,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.199,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.5,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.596,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.603,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.6,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.7,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.755,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.801,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.902,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.867,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.756,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.152,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了33次，第1次的值是1.021，输入的InCorrect；，第2次的值是0.6，输入的InCorrect；，第3次的值是0.707，输入的InCorrect；，第4次的值是0.8，输入的InCorrect；，第5次的值是0.903，输入的InCorrect；，第6次的值是0.998，输入的InCorrect；，第7次的值是1.013，输入的InCorrect；，第8次的值是1.013，输入的InCorrect；，第9次的值是1.013，输入的InCorrect；，第10次的值是1.015，输入的InCorrect；，第11次的值是1.019，输入的InCorrect；，第12次的值是1.019，输入的InCorrect；，第13次的值是1.019，输入的InCorrect；，第14次的值是1.0，输入的InCorrect；，第15次的值是0.041，输入的InCorrect；，第16次的值是0.006，输入的InCorrect；，第17次的值是0.002，输入的InCorrect；，第18次的值是0.4，输入的InCorrect；，第19次的值是0.3，输入的InCorrect；，第20次的值是0.502，输入的InCorrect；，第21次的值是0.501，输入的InCorrect；，第22次的值是0.199，输入的InCorrect；，第23次的值是0.5，输入的InCorrect；，第24次的值是0.596，输入的InCorrect；，第25次的值是0.603，输入的InCorrect；，第26次的值是0.6，输入的InCorrect；，第27次的值是0.7，输入的InCorrect；，第28次的值是0.755，输入的InCorrect；，第29次的值是0.801，输入的InCorrect；，第30次的值是0.902，输入的InCorrect；，第31次的值是0.867，输入的InCorrect；，第32次的值是0.756，输入的InCorrect；，第33次的值是0.152，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_11",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.798,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.106,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.099,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.152,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是0.798，输入的InCorrect；，第2次的值是0.106，输入的InCorrect；，第3次的值是0.099，输入的InCorrect；，第4次的值是0.152，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_12",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.044,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.019,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.134,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.154,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是0.044，输入的InCorrect；，第2次的值是0.019，输入的InCorrect；，第3次的值是0.134，输入的InCorrect；，第4次的值是0.154，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_13",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.047,
+                "answer (answer列对应的值)": 0.143,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.143,
+                "answer (answer列对应的值)": 0.143,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了2次，第1次的值是0.047，输入的InCorrect；，第2次的值是0.143，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_14",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.399,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.427,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.455,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.151,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是0.399，输入的InCorrect；，第2次的值是0.427，输入的InCorrect；，第3次的值是0.455，输入的InCorrect；，第4次的值是0.151，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_15",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.195,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.101,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.003,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.152,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是0.195，输入的InCorrect；，第2次的值是0.101，输入的InCorrect；，第3次的值是0.003，输入的InCorrect；，第4次的值是0.152，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_16",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.152,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.152，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_17",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.701,
+                "answer (answer列对应的值)": 0.157,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.157,
+                "answer (answer列对应的值)": 0.157,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了2次，第1次的值是0.701，输入的InCorrect；，第2次的值是0.157，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_18",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.686,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.793,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.897,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是0.686，输入的InCorrect；，第2次的值是0.793，输入的InCorrect；，第3次的值是0.897，输入的InCorrect；，第4次的值是0.15，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_19",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.129,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.152,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了2次，第1次的值是0.129，输入的InCorrect；，第2次的值是0.152，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_20",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.101,
+                "answer (answer列对应的值)": 0.148,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.099,
+                "answer (answer列对应的值)": 0.148,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.2,
+                "answer (answer列对应的值)": 0.148,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.148,
+                "answer (answer列对应的值)": 0.148,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是0.101，输入的InCorrect；，第2次的值是0.099，输入的InCorrect；，第3次的值是0.2，输入的InCorrect；，第4次的值是0.148，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_21",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.15，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_22",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.95,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.85,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.791,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.444,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.254,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.195,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了7次，第1次的值是0.95，输入的InCorrect；，第2次的值是0.85，输入的InCorrect；，第3次的值是0.791，输入的InCorrect；，第4次的值是0.444，输入的InCorrect；，第5次的值是0.254，输入的InCorrect；，第6次的值是0.195，输入的InCorrect；，第7次的值是0.15，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_23",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.152,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.152，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_24",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.157,
+                "answer (answer列对应的值)": 0.157,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.157，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_25",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.151,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.151，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_26",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.151,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "Correct"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了2次，第1次的值是0.151，输入的Correct；，第2次的值是0.15，输入的InCorrect"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_27",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.551,
+                "answer (answer列对应的值)": 0.148,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.148,
+                "answer (answer列对应的值)": 0.148,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了2次，第1次的值是0.551，输入的InCorrect；，第2次的值是0.148，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_28",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.149,
+                "answer (answer列对应的值)": 0.149,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.149，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_29",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.875,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.84,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.806,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.786,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.758,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.73,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.703,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.696,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.689,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.67,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.655,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.633,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.619,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.612,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.576,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.565,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.544,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.516,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.493,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.455,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.39,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.328,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.28,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.235,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.154,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了25次，第1次的值是0.875，输入的InCorrect；，第2次的值是0.84，输入的InCorrect；，第3次的值是0.806，输入的InCorrect；，第4次的值是0.786，输入的InCorrect；，第5次的值是0.758，输入的InCorrect；，第6次的值是0.73，输入的InCorrect；，第7次的值是0.703，输入的InCorrect；，第8次的值是0.696，输入的InCorrect；，第9次的值是0.689，输入的InCorrect；，第10次的值是0.67，输入的InCorrect；，第11次的值是0.655，输入的InCorrect；，第12次的值是0.633，输入的InCorrect；，第13次的值是0.619，输入的InCorrect；，第14次的值是0.612，输入的InCorrect；，第15次的值是0.576，输入的InCorrect；，第16次的值是0.565，输入的InCorrect；，第17次的值是0.544，输入的InCorrect；，第18次的值是0.516，输入的InCorrect；，第19次的值是0.493，输入的InCorrect；，第20次的值是0.455，输入的InCorrect；，第21次的值是0.39，输入的InCorrect；，第22次的值是0.328，输入的InCorrect；，第23次的值是0.28，输入的InCorrect；，第24次的值是0.235，输入的InCorrect；，第25次的值是0.154，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_30",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.552,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.023,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.012,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.016,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.012,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.013,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.016,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.012,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.0,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.009,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.003,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.003,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.0,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.002,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": -0.004,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": -0.004,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.0,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": -0.029,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.012,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.016,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.013,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.015,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.117,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.112,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.112,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.108,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.095,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.073,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.094,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.073,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.016,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.012,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.014,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.015,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.151,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了35次，第1次的值是0.552，输入的InCorrect；，第2次的值是0.023，输入的InCorrect；，第3次的值是0.012，输入的InCorrect；，第4次的值是0.016，输入的InCorrect；，第5次的值是0.012，输入的InCorrect；，第6次的值是0.013，输入的InCorrect；，第7次的值是0.016，输入的InCorrect；，第8次的值是0.012，输入的InCorrect；，第9次的值是0.0，输入的InCorrect；，第10次的值是0.009，输入的InCorrect；，第11次的值是0.003，输入的InCorrect；，第12次的值是0.003，输入的InCorrect；，第13次的值是0.0，输入的InCorrect；，第14次的值是0.002，输入的InCorrect；，第15次的值是-0.004，输入的InCorrect；，第16次的值是-0.004，输入的InCorrect；，第17次的值是0.0，输入的InCorrect；，第18次的值是-0.029，输入的InCorrect；，第19次的值是0.012，输入的InCorrect；，第20次的值是0.016，输入的InCorrect；，第21次的值是0.013，输入的InCorrect；，第22次的值是0.015，输入的InCorrect；，第23次的值是0.117，输入的InCorrect；，第24次的值是0.112，输入的InCorrect；，第25次的值是0.112，输入的InCorrect；，第26次的值是0.108，输入的InCorrect；，第27次的值是0.095，输入的InCorrect；，第28次的值是0.073，输入的InCorrect；，第29次的值是0.094，输入的InCorrect；，第30次的值是0.073，输入的InCorrect；，第31次的值是1.016，输入的InCorrect；，第32次的值是1.012，输入的InCorrect；，第33次的值是1.014，输入的InCorrect；，第34次的值是1.015，输入的InCorrect；，第35次的值是0.151，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_31",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.155,
+                "answer (answer列对应的值)": 0.155,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.155，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_32",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.116,
+                "answer (answer列对应的值)": 0.137,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.108,
+                "answer (answer列对应的值)": 0.137,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.1,
+                "answer (answer列对应的值)": 0.137,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.122,
+                "answer (answer列对应的值)": 0.137,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.134,
+                "answer (answer列对应的值)": 0.137,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.137,
+                "answer (answer列对应的值)": 0.137,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了6次，第1次的值是0.116，输入的InCorrect；，第2次的值是0.108，输入的InCorrect；，第3次的值是0.1，输入的InCorrect；，第4次的值是0.122，输入的InCorrect；，第5次的值是0.134，输入的InCorrect；，第6次的值是0.137，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_33",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.115,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.114,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.101,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.1,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.023,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.006,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.147,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了7次，第1次的值是0.115，输入的InCorrect；，第2次的值是0.114，输入的InCorrect；，第3次的值是0.101，输入的InCorrect；，第4次的值是0.1，输入的InCorrect；，第5次的值是0.023，输入的InCorrect；，第6次的值是0.006，输入的InCorrect；，第7次的值是0.147，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_34",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.034,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.132,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.152,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了3次，第1次的值是0.034，输入的InCorrect；，第2次的值是0.132，输入的InCorrect；，第3次的值是0.152，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_35",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.013,
+                "answer (answer列对应的值)": 0.156,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.513,
+                "answer (answer列对应的值)": 0.156,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.56,
+                "answer (answer列对应的值)": 0.156,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.703,
+                "answer (answer列对应的值)": 0.156,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.593,
+                "answer (answer列对应的值)": 0.156,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.646,
+                "answer (answer列对应的值)": 0.156,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.673,
+                "answer (answer列对应的值)": 0.156,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.72,
+                "answer (answer列对应的值)": 0.156,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.156,
+                "answer (answer列对应的值)": 0.156,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了9次，第1次的值是1.013，输入的InCorrect；，第2次的值是0.513，输入的InCorrect；，第3次的值是0.56，输入的InCorrect；，第4次的值是0.703，输入的InCorrect；，第5次的值是0.593，输入的InCorrect；，第6次的值是0.646，输入的InCorrect；，第7次的值是0.673，输入的InCorrect；，第8次的值是0.72，输入的InCorrect；，第9次的值是0.156，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_36",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.151,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.151，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_37",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.798,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.804,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.798,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.8,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.8,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.001,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.901,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.9,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.9,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.9,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.9,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.19,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.18,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.16,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了15次，第1次的值是0.798，输入的InCorrect；，第2次的值是0.804，输入的InCorrect；，第3次的值是0.798，输入的InCorrect；，第4次的值是0.8，输入的InCorrect；，第5次的值是0.8，输入的InCorrect；，第6次的值是1.001，输入的InCorrect；，第7次的值是0.901，输入的InCorrect；，第8次的值是0.9，输入的InCorrect；，第9次的值是0.9，输入的InCorrect；，第10次的值是0.9，输入的InCorrect；，第11次的值是0.9，输入的InCorrect；，第12次的值是0.19，输入的InCorrect；，第13次的值是0.18，输入的InCorrect；，第14次的值是0.16，输入的InCorrect；，第15次的值是0.15，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_38",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.801,
+                "answer (answer列对应的值)": 0.163,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.475,
+                "answer (answer列对应的值)": 0.163,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.527,
+                "answer (answer列对应的值)": 0.163,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.6,
+                "answer (answer列对应的值)": 0.163,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.56,
+                "answer (answer列对应的值)": 0.163,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.163,
+                "answer (answer列对应的值)": 0.163,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了6次，第1次的值是0.801，输入的InCorrect；，第2次的值是0.475，输入的InCorrect；，第3次的值是0.527，输入的InCorrect；，第4次的值是0.6，输入的InCorrect；，第5次的值是0.56，输入的InCorrect；，第6次的值是0.163，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_39",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.148,
+                "answer (answer列对应的值)": 0.148,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.148，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_40",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.143,
+                "answer (answer列对应的值)": 0.143,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.143，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_41",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.181,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.16,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.159,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.158,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.156,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了6次，第1次的值是0.181，输入的InCorrect；，第2次的值是0.16，输入的InCorrect；，第3次的值是0.159，输入的InCorrect；，第4次的值是0.158，输入的InCorrect；，第5次的值是0.156，输入的InCorrect；，第6次的值是0.15，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_42",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.7,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.903,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.902,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.9,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.202,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.12,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.123,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.121,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.119,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.12,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.13,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.139,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.14,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了14次，第1次的值是0.7，输入的InCorrect；，第2次的值是0.903，输入的InCorrect；，第3次的值是0.902，输入的InCorrect；，第4次的值是0.9，输入的InCorrect；，第5次的值是0.202，输入的InCorrect；，第6次的值是0.12，输入的InCorrect；，第7次的值是0.123，输入的InCorrect；，第8次的值是0.121，输入的InCorrect；，第9次的值是0.119，输入的InCorrect；，第10次的值是0.12，输入的InCorrect；，第11次的值是0.13，输入的InCorrect；，第12次的值是0.139，输入的InCorrect；，第13次的值是0.14，输入的InCorrect；，第14次的值是0.15，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_43",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.147,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.147，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_44",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.022,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.952,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.177,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.154,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是1.022，输入的InCorrect；，第2次的值是0.952，输入的InCorrect；，第3次的值是0.177，输入的InCorrect；，第4次的值是0.154，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_45",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.502,
+                "answer (answer列对应的值)": 0.142,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.497,
+                "answer (answer列对应的值)": 0.142,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.501,
+                "answer (answer列对应的值)": 0.142,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.142,
+                "answer (answer列对应的值)": 0.142,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是0.502，输入的InCorrect；，第2次的值是0.497，输入的InCorrect；，第3次的值是0.501，输入的InCorrect；，第4次的值是0.142，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_46",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.998,
+                "answer (answer列对应的值)": 0.162,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.162,
+                "answer (answer列对应的值)": 0.162,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了2次，第1次的值是0.998，输入的InCorrect；，第2次的值是0.162，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_47",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.218,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.168,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.152,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了3次，第1次的值是0.218，输入的InCorrect；，第2次的值是0.168，输入的InCorrect；，第3次的值是0.152，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_48",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.121,
+                "answer (answer列对应的值)": 0.143,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.143,
+                "answer (answer列对应的值)": 0.143,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了2次，第1次的值是0.121，输入的InCorrect；，第2次的值是0.143，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_49",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.149,
+                "answer (answer列对应的值)": 0.149,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.149，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_50",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.05,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.071,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.063,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.151,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是0.05，输入的InCorrect；，第2次的值是0.071，输入的InCorrect；，第3次的值是0.063，输入的InCorrect；，第4次的值是0.151，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_51",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.902,
+                "answer (answer列对应的值)": 0.162,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.535,
+                "answer (answer列对应的值)": 0.162,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.578,
+                "answer (answer列对应的值)": 0.162,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.583,
+                "answer (answer列对应的值)": 0.162,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.168,
+                "answer (answer列对应的值)": 0.162,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.162,
+                "answer (answer列对应的值)": 0.162,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了6次，第1次的值是0.902，输入的InCorrect；，第2次的值是0.535，输入的InCorrect；，第3次的值是0.578，输入的InCorrect；，第4次的值是0.583，输入的InCorrect；，第5次的值是0.168，输入的InCorrect；，第6次的值是0.162，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_52",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.018,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.018,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.018,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.018,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.11,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.12,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.13,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了8次，第1次的值是1.018，输入的InCorrect；，第2次的值是1.018，输入的InCorrect；，第3次的值是1.018，输入的InCorrect；，第4次的值是1.018，输入的InCorrect；，第5次的值是0.11，输入的InCorrect；，第6次的值是0.12，输入的InCorrect；，第7次的值是0.13，输入的InCorrect；，第8次的值是0.15，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_53",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.149,
+                "answer (answer列对应的值)": 0.149,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.149，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_54",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.123,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.084,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.043,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.023,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.008,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.0,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": -0.01,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": -0.023,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.126,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.151,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了10次，第1次的值是0.123，输入的InCorrect；，第2次的值是0.084，输入的InCorrect；，第3次的值是0.043，输入的InCorrect；，第4次的值是0.023，输入的InCorrect；，第5次的值是0.008，输入的InCorrect；，第6次的值是0.0，输入的InCorrect；，第7次的值是-0.01，输入的InCorrect；，第8次的值是-0.023，输入的InCorrect；，第9次的值是0.126，输入的InCorrect；，第10次的值是0.151，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_55",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.15，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_56",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.154,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.154，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_57",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.804,
+                "answer (answer列对应的值)": 0.156,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.502,
+                "answer (answer列对应的值)": 0.156,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.403,
+                "answer (answer列对应的值)": 0.156,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.156,
+                "answer (answer列对应的值)": 0.156,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是0.804，输入的InCorrect；，第2次的值是0.502，输入的InCorrect；，第3次的值是0.403，输入的InCorrect；，第4次的值是0.156，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_58",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.15，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_59",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.149,
+                "answer (answer列对应的值)": 0.149,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.149，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_60",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.203,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.2,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了3次，第1次的值是0.203，输入的InCorrect；，第2次的值是0.2，输入的InCorrect；，第3次的值是0.15，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_61",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.563,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.058,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.03,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.061,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.131,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.147,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了6次，第1次的值是0.563，输入的InCorrect；，第2次的值是0.058，输入的InCorrect；，第3次的值是0.03，输入的InCorrect；，第4次的值是0.061，输入的InCorrect；，第5次的值是0.131，输入的InCorrect；，第6次的值是0.147，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_62",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.149,
+                "answer (answer列对应的值)": 0.149,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.149，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_63",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.15，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_64",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.149,
+                "answer (answer列对应的值)": 0.149,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.149，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_65",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.137,
+                "answer (answer列对应的值)": 0.137,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.137，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_66",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.596,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.696,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.197,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.151,
+                "answer (answer列对应的值)": 0.151,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是0.596，输入的InCorrect；，第2次的值是0.696，输入的InCorrect；，第3次的值是0.197，输入的InCorrect；，第4次的值是0.151，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_67",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.601,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.288,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.246,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.152,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "Correct"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.196,
+                "answer (answer列对应的值)": 0.152,
+                "right (Outcome列对应的值)": "InCorrect"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了5次，第1次的值是0.601，输入的InCorrect；，第2次的值是0.288，输入的InCorrect；，第3次的值是0.246，输入的InCorrect；，第4次的值是0.152，输入的Correct；，第5次的值是0.196，输入的InCorrect"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_68",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.148,
+                "answer (answer列对应的值)": 0.148,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.148，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_69",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.04,
+                "answer (answer列对应的值)": 0.136,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.073,
+                "answer (answer列对应的值)": 0.136,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.136,
+                "answer (answer列对应的值)": 0.136,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了3次，第1次的值是0.04，输入的InCorrect；，第2次的值是0.073，输入的InCorrect；，第3次的值是0.136，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_70",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.148,
+                "answer (answer列对应的值)": 0.148,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.148，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_71",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.698,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.649,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.544,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了5次，第1次的值是0.698，输入的InCorrect；，第2次的值是0.649，输入的InCorrect；，第3次的值是0.544，输入的InCorrect；，第4次的值是0.15，输入的Correct；，第5次的值是0.15，输入的InCorrect"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_72",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.162,
+                "answer (answer列对应的值)": 0.162,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.162，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_73",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.11,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.12,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.13,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.14,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了5次，第1次的值是0.11，输入的InCorrect；，第2次的值是0.12，输入的InCorrect；，第3次的值是0.13，输入的InCorrect；，第4次的值是0.14，输入的InCorrect；，第5次的值是0.15，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_74",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.15，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_75",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.096,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.096,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.209,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.147,
+                "answer (answer列对应的值)": 0.147,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是0.096，输入的InCorrect；，第2次的值是0.096，输入的InCorrect；，第3次的值是0.209，输入的InCorrect；，第4次的值是0.147，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_76",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 1.011,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.696,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.95,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.154,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是1.011，输入的InCorrect；，第2次的值是0.696，输入的InCorrect；，第3次的值是0.95，输入的InCorrect；，第4次的值是0.154，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_77",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "High",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.156,
+                "answer (answer列对应的值)": 0.156,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了1次，第1次的值是0.156，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_78",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Medium",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.101,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.071,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.043,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.154,
+                "answer (answer列对应的值)": 0.154,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了4次，第1次的值是0.101，输入的InCorrect；，第2次的值是0.071，输入的InCorrect；，第3次的值是0.043，输入的InCorrect；，第4次的值是0.154，输入的Correct"
+        ]
+    },
+    {
+        "学生id (对应的Anon Student Id)": "Stu_79",
+        "题目 (题目值对应的是Problem Name的值)": "Q5. 0.15",
+        "学生水平Tier": "Low",
+        "操作记录": [
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.191,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.19,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.18,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.17,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.163,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.16,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "InCorrect"
+            },
+            {
+                "step": "numline1",
+                "input (input列对应的值, 也就是学生的输入)": 0.15,
+                "answer (answer列对应的值)": 0.15,
+                "right (Outcome列对应的值)": "Correct"
+            }
+        ],
+        "操作信息": [
+            "在selection为numline1上进行操作了7次，第1次的值是0.191，输入的InCorrect；，第2次的值是0.19，输入的InCorrect；，第3次的值是0.18，输入的InCorrect；，第4次的值是0.17，输入的InCorrect；，第5次的值是0.163，输入的InCorrect；，第6次的值是0.16，输入的InCorrect；，第7次的值是0.15，输入的Correct"
+        ]
+    }
+]

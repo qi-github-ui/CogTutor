@@ -1,0 +1,21 @@
+{
+  "题目任务": "在数轴上找到0.4的准确位置。",
+  "题目描述": "给定一个标有十分位和百分位的数轴。数轴从0到1，其中每个大刻度代表一个十分位，每个小刻度代表一个百分位。",
+  "任务": [
+    "确定0.4在数轴上的位置。",
+    "说明0.4位于哪两个十分位之间。",
+    "计算并标出0.4具体位于哪个百分位。"
+  ],
+  "提示": [
+    "Place the number on this number line.",
+    "Look at how many tenths are in 0.4?",
+    "There are 4 tenths. Think about what this means; one tenth means one segment you get by dividing the line into 10 segments.",
+    "Since there are 4 tenths, the number is hidden RIGHT AT the tickmark for 0.4!",
+    "Count 4 tickmark(s) to the right of 0 and click on that spot."
+  ],
+  "验证问题": [
+    "0.4在数轴上具体处于哪个十分位？",
+    "0.4是更接近0.3还是0.5？"
+  ],
+  "正确答案": "0.392 - 0.405"
+}

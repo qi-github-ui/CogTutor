@@ -1,0 +1,22 @@
+{
+  "题目任务": "在数轴上找到0.1的准确位置",
+  "题目描述": "给定一个标有十分位和百分位的数轴。数轴从0到1，其中每个大刻度代表一个十分位，每个小刻度代表一个百分位。",
+  "任务": [
+    "确定0.1在数轴上的位置",
+    "说明0.1位于哪两个十分位之间",
+    "计算并标出0.1具体位于哪个百分位"
+  ],
+  "提示": [
+    "Place the number on this number line, but you can still use the top number line if you want.",
+    "This number line is zoomed between 0.1 and 0.1, so you are already at the correct tenths.",
+    "Place the number on this number line. Look at how many tenths are in 0.1?",
+    "There are 1 tenths. Think about what this means; one tenth means one segment you get by dividing the line into 10 segments.",
+    "Since there are 1 tenths, the number is hidden RIGHT AT the tickmark for 0.1!",
+    "Count 1 tickmark(s) to the right of 0 and click on that spot."
+  ],
+  "验证问题": [
+    "0.1在数轴上具体处于哪个十分位？",
+    "0.1是更接近0还是0.2？"
+  ],
+  "正确答案": "0.092 - 0.108"
+}

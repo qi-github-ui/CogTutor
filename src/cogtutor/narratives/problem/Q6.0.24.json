@@ -1,0 +1,23 @@
+{
+  "题目任务": "在数轴上找到0.21的准确位置",
+  "题目描述": "给定一个标有十分位和百分位的数轴。数轴从0到1，其中每个大刻度代表一个十分位，每个小刻度代表一个百分位。",
+  "任务": [
+    "确定0.21在数轴上的位置",
+    "说明0.21位于哪两个十分位之间",
+    "计算并标出0.21具体位于哪个百分位"
+  ],
+  "提示": [
+    "Place the number on this number line, but you can still use the top number line if you want.",
+    "This number line is zoomed between 0.2 and 0.3, so you are already at the correct tenths. You must find the correct hundredths.",
+    "Place the number on this number line. Look at how many tenths are in 0.21? Then, look at how many hundredths.",
+    "There are 2 tenths, and 1 hundredths. The number is hidden 1 hundredths AFTER 0.2 tickmark! To get these hundredths, imagine another ten division between the 0.2 and 0.3 tickmarks.",
+    "Count 2 tickmark(s) to the right of 0, and go 1 hundredths parts more. Note that 0.21 is close to 0.2.",
+    "You know that 0.21 is between 0.2 and 0.3, but where is it closer? Is it closer to 0.2? 0.3? How about the middle, 0.25?",
+    "If this is difficult to do, why don't you try zooming in?"
+  ],
+  "验证问题": [
+    "0.21在数轴上具体处于哪个百分位？",
+    "0.21是更接近0.2还是0.3？"
+  ],
+  "正确答案": "0.202 - 0.225"
+}

@@ -1,0 +1,171 @@
+[
+    {
+        "id": "r1c3",
+        "action": "UpdateTextField",
+        "feedback": {
+            "successMessage": "2"
+        },
+        "hints": [
+            "If you have already given Allison <%=fmtDecimal(totalRow([r1c1, r1c2, r1c3, r1c4]) / 100, 2)%>. How many <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 3)%> would you give Allison to get <%=fmtDecimal(3723 / 100, 2)%>?",
+            "What is the highest number of <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 3)%> you can have without going over <%=fmtDecimal(3723 / 100, 2)%>?",
+            "Try entering <%=givenValue(3723, 3)%>"
+        ],
+        "path": [
+            {
+                "from": null,
+                "to": null
+            }
+        ]
+    },
+    {
+        "id": "r1c4",
+        "action": "UpdateTextField",
+        "feedback": {
+            "successMessage": "3"
+        },
+        "hints": [
+            "If you have already given Allison <%=fmtDecimal(totalRow([r1c1, r1c2, r1c3, r1c4]) / 100, 2)%>. How many <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 4)%> would you give Allison to get <%=fmtDecimal(3723 / 100, 2)%>?",
+            "What is the highest number of <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 4)%> you can have without going over <%=fmtDecimal(3723 / 100, 2)%>?",
+            "Try entering <%=givenValue(3723, 4)%>"
+        ],
+        "path": [
+            {
+                "from": null,
+                "to": null
+            }
+        ]
+    },
+    {
+        "id": "r2c1",
+        "action": "UpdateTextField",
+        "feedback": {
+            "successMessage": "7"
+        },
+        "hints": [
+            "If you have already given Allison <%=fmtDecimal(totalRow([r2c1, r2c2, r2c3, r2c4]) / 100, 2)%>. How many <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 1)%> would you give Allison to get <%=fmtDecimal(3723 / 100, 2)%>?",
+            "What is the highest number of <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 1)%> you can have without going over <%=fmtDecimal(3723 / 100, 2)%>?",
+            "Try entering <%=preferredValue(3723, r2c1, r2c2, r2c3, r2c4, 1)%>"
+        ],
+        "path": [
+            {
+                "from": null,
+                "to": null
+            },
+            {
+                "from": null,
+                "to": null
+            }
+        ]
+    },
+    {
+        "id": "r2c2",
+        "action": "UpdateTextField",
+        "feedback": {
+            "successMessage": "13"
+        },
+        "hints": [
+            "If you have already given Allison <%=fmtDecimal(totalRow([r2c1, r2c2, r2c3, r2c4]) / 100, 2)%>. How many <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 2)%> would you give Allison to get <%=fmtDecimal(3723 / 100, 2)%>?",
+            "What is the highest number of <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 2)%> you can have without going over <%=fmtDecimal(3723 / 100, 2)%>?",
+            "Try entering <%=preferredValue(3723, r2c1, r2c2, r2c3, r2c4, 2)%>"
+        ],
+        "path": [
+            {
+                "from": null,
+                "to": null
+            },
+            {
+                "from": null,
+                "to": null
+            }
+        ]
+    },
+    {
+        "id": "r2c4",
+        "action": "UpdateTextField",
+        "feedback": {
+            "successMessage": "23"
+        },
+        "hints": [
+            "If you have already given Allison <%=fmtDecimal(totalRow([r2c1, r2c2, r2c3, r2c4]) / 100, 2)%>. How many <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 4)%> would you give Allison to get <%=fmtDecimal(3723 / 100, 2)%>?",
+            "What is the highest number of <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 4)%> you can have without going over <%=fmtDecimal(3723 / 100, 2)%>?",
+            "Try entering <%=preferredValue(3723, r2c1, r2c2, r2c3, r2c4, 4)%>",
+            null
+        ],
+        "path": [
+            {
+                "from": null,
+                "to": null
+            },
+            {
+                "from": null,
+                "to": null
+            }
+        ]
+    },
+    {
+        "id": "r3c1",
+        "action": "UpdateTextField",
+        "feedback": {
+            "successMessage": "7"
+        },
+        "hints": [
+            "If you have already given Allison <%=fmtDecimal(totalRow([r3c1, r3c2, r3c3, r3c4]) / 100, 2)%>. How many <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 1)%> would you give Allison to get <%=fmtDecimal(3723 / 100, 2)%>?",
+            "What is the highest number of <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 1)%> you can have without going over <%=fmtDecimal(3723 / 100, 2)%>?",
+            "Try entering <%=preferredValue(3723, r3c1, r3c2, r3c3, r3c4, 1)%>"
+        ],
+        "path": [
+            {
+                "from": null,
+                "to": null
+            },
+            {
+                "from": null,
+                "to": null
+            }
+        ]
+    },
+    {
+        "id": "r3c2",
+        "action": "UpdateTextField",
+        "feedback": {
+            "successMessage": "23"
+        },
+        "hints": [
+            "If you have already given Allison <%=fmtDecimal(totalRow([r3c1, r3c2, r3c3, r3c4]) / 100, 2)%>. How many <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 2)%> would you give Allison to get <%=fmtDecimal(3723 / 100, 2)%>?",
+            "What is the highest number of <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 2)%> you can have without going over <%=fmtDecimal(3723 / 100, 2)%>?",
+            "Try entering <%=preferredValue(3723, r3c1, r3c2, r3c3, r3c4, 2)%>"
+        ],
+        "path": [
+            {
+                "from": null,
+                "to": null
+            },
+            {
+                "from": null,
+                "to": null
+            }
+        ]
+    },
+    {
+        "id": "r3c3",
+        "action": "UpdateTextField",
+        "feedback": {
+            "successMessage": "17"
+        },
+        "hints": [
+            "If you have already given Allison <%=fmtDecimal(totalRow([r3c1, r3c2, r3c3, r3c4]) / 100, 2)%>. How many <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 3)%> would you give Allison to get <%=fmtDecimal(3723 / 100, 2)%>?",
+            "What is the highest number of <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 3)%> you can have without going over <%=fmtDecimal(3723 / 100, 2)%>?",
+            "Try entering <%=preferredValue(3723, r3c1, r3c2, r3c3, r3c4, 3)%>"
+        ],
+        "path": [
+            {
+                "from": null,
+                "to": null
+            },
+            {
+                "from": null,
+                "to": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+{
+  "题目任务": "在数轴上找到0.407的准确位置",
+  "题目描述": "给定一个标有十分位、百分位和千分位的数轴。数轴从0到1，其中每个大刻度代表一个十分位，每个小刻度代表一个百分位。",
+  "任务": [
+    "确定0.407在数轴上的位置",
+    "说明0.407位于哪两个十分位之间",
+    "计算并标出0.407具体位于哪个百分位"
+  ],
+  "提示": [
+    "Place the number on this number line. Look at how many tenths are in 0.407? Then, look at how many hundredths and thousandths.",
+    "There are 4 tenths, 0 hundredths, AND 7 thousandths. Don't let the thousandths scare you! Their size compared to this number line is SO small, it will be almost invisible, so you can ignore it. Now this number is like estimating 0.40!",
+    "Count 4 tickmark(s) to the right of 0, and go 0 hundredths parts more. Note that 0.407 is very close to 0.4.",
+    "You know that 0.407 is between 0.4 and 0.5, but where is it closer? Is it closer to 0.4? 0.5? How about the middle, 0.45?"
+  ],
+  "验证问题": [
+    "0.407在数轴上具体处于哪个百分位？",
+    "0.407是更接近0.4还是0.5？"
+  ],
+  "正确答案": "0.401 - 0.421"
+}

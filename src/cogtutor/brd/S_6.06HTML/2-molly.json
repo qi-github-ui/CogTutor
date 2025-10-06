@@ -1,0 +1,24 @@
+[
+    {
+        "id": "r3c4",
+        "action": "UpdateTextField",
+        "feedback": {
+            "successMessage": "17"
+        },
+        "hints": [
+            "If you have already given Molly <%=fmtDecimal(totalRow([r3c1, r3c2, r3c3, r3c4]) / 100, 2)%>. How many <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 4)%> would you give Molly to get <%=fmtDecimal(605 / 100, 2)%>?",
+            "What is the highest number of <%=cellLabel(\"ten dollar bills\", \"one dollar bills\", \"dimes\", \"pennies\", 4)%> you can have without going over <%=fmtDecimal(605 / 100, 2)%>?",
+            "Try entering <%=preferredValue(605, r3c1, r3c2, r3c3, r3c4, 4)%>"
+        ],
+        "path": [
+            {
+                "from": null,
+                "to": null
+            },
+            {
+                "from": null,
+                "to": null
+            }
+        ]
+    }
+]

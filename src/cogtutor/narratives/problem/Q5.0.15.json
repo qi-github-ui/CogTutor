@@ -1,0 +1,21 @@
+{
+  "题目任务": "在数轴上找到0.15的准确位置",
+  "题目描述": "给定一个标有十分位和百分位的数轴。数轴从0到1，其中每个大刻度代表一个十分位，每个小刻度代表一个百分位。",
+  "任务": [
+    "确定0.15在数轴上的位置",
+    "说明0.15位于哪两个十分位之间",
+    "计算并标出0.15具体位于哪个百分位"
+  ],
+  "提示": [
+    "Place the number on this number line. Look at how many tenths are in 0.15? Then, look at how many hundredths.",
+    "There are 1 tenths, and 5 hundredths. The number is hidden 5 hundredths AFTER 0.1 tickmark! To get these hundredths, imagine another ten division between the 0.1 and 0.2 tickmarks.",
+    "Count 1 tickmark(s) to the right of 0, and go 5 hundredths parts more by clicking halfway between 0.1 and 0.2.",
+    "You know that 0.15 is between 0.1 and 0.2, but where is it closer? Is it closer to 0.1? 0.2? How about the middle, 0.15?",
+    "If this is difficult to do, why don't you try zooming in?"
+  ],
+  "验证问题": [
+    "0.15在数轴上具体处于哪个百分位？",
+    "0.15是更接近0.1还是0.2？"
+  ],
+  "正确答案": "0.136 - 0.163"
+}

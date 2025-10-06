@@ -1,0 +1,629 @@
+[
+    {
+        "category": "提取信息 (Summarizing)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "无法识别或提取题目中的关键信息和数据，导致解题过程混乱。"
+            },
+            {
+                "score": "2分",
+                "description": "仅能部分识别出题目中的关键信息，但缺乏系统性，导致解题效率低下。"
+            },
+            {
+                "score": "3分",
+                "description": "能够识别一些关键信息，但遗漏了部分重要数据，对解题有一定影响。"
+            },
+            {
+                "score": "4分",
+                "description": "较好地提取了大部分关键信息，但在理解数据的关联性上存在不足。"
+            },
+            {
+                "score": "5分",
+                "description": "能够准确提取题目中的大部分关键信息和数据，较好支持解题过程。"
+            },
+            {
+                "score": "6分",
+                "description": "准确无误地提取了所有关键信息，并能有效地运用这些信息进行解题。"
+            },
+            {
+                "score": "7分",
+                "description": "高效、迅速地识别并提取所有关键信息和数据，为后续解题提供坚实基础。 "
+            }
+        ]
+    },
+    {
+        "category": "理解问题 (Understanding the Problem)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "完全无法理解问题的目标和限制条件，解题方向错误。"
+            },
+            {
+                "score": "2分",
+                "description": "对问题的理解不够清晰，导致解题步骤不正确。"
+            },
+            {
+                "score": "3分",
+                "description": "理解问题时有一定偏差，虽能部分识别目标，但有遗漏。"
+            },
+            {
+                "score": "4分",
+                "description": "对问题有较为清晰的理解，但对限制条件的掌握不足。"
+            },
+            {
+                "score": "5分",
+                "description": "能够较好地理解问题目标及其限制条件，整体方向正确。"
+            },
+            {
+                "score": "6分",
+                "description": "深入理解了问题目标和所有限制条件，能够正确引导解题。"
+            },
+            {
+                "score": "7分",
+                "description": "全面理解问题的每个细节，并能有效运用理解指导后续解题步骤。 "
+            }
+        ]
+    },
+    {
+        "category": "重读 (Rereading)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "无法通过重读澄清问题理解，导致解题中断。"
+            },
+            {
+                "score": "2分",
+                "description": "重读次数不足，未能解决理解中的困惑。"
+            },
+            {
+                "score": "3分",
+                "description": "重读后部分澄清问题，但仍有一些理解偏差。"
+            },
+            {
+                "score": "4分",
+                "description": "重读后大致澄清了问题，但对复杂问题仍有不清楚之处。"
+            },
+            {
+                "score": "5分",
+                "description": "重读后解决了大部分困惑，有效提升了问题理解。"
+            },
+            {
+                "score": "6分",
+                "description": "能够灵活使用重读策略，在遇到困惑时迅速澄清问题。"
+            },
+            {
+                "score": "7分",
+                "description": "主动、有效地多次重读，确保完全理解问题，从而优化解题效果。 "
+            }
+        ]
+    },
+    {
+        "category": "策略执行 (Strategy Execution)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "无法按照选定策略执行解题步骤，解题完全失败。"
+            },
+            {
+                "score": "2分",
+                "description": "尝试执行策略，但步骤混乱，导致解题进展不顺。"
+            },
+            {
+                "score": "3分",
+                "description": "执行策略时有偏差，未完全按照计划执行。"
+            },
+            {
+                "score": "4分",
+                "description": "基本按照选定策略执行解题步骤，但效率不高。"
+            },
+            {
+                "score": "5分",
+                "description": "能够按策略计划执行，解题较为顺利。"
+            },
+            {
+                "score": "6分",
+                "description": "有效执行选定策略，解题步骤有条理，效率高。"
+            },
+            {
+                "score": "7分",
+                "description": "灵活、高效地执行策略，迅速解决问题，表现出色。 "
+            }
+        ]
+    },
+    {
+        "category": "结果评估 (Evaluation of the Result)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "完全未检查解题结果，错误未被发现。"
+            },
+            {
+                "score": "2分",
+                "description": "仅做了表面检查，未能识别明显错误。"
+            },
+            {
+                "score": "3分",
+                "description": "对解题结果进行了部分检查，但遗漏了一些问题。"
+            },
+            {
+                "score": "4分",
+                "description": "检查了解题结果，但在细节上存在不足。"
+            },
+            {
+                "score": "5分",
+                "description": "能够较好地评估结果，并识别出大部分错误。"
+            },
+            {
+                "score": "6分",
+                "description": "细致地评估了解题结果，确保结果准确无误。"
+            },
+            {
+                "score": "7分",
+                "description": "全面、深入地评估结果，发现并修复所有潜在错误。 "
+            }
+        ]
+    },
+    {
+        "category": "自我评估 (Self-Evaluation)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "完全缺乏对解题过程的反思和评估。"
+            },
+            {
+                "score": "2分",
+                "description": "反思过程很少，仅关注表面问题。"
+            },
+            {
+                "score": "3分",
+                "description": "进行了一些反思，但未能深入识别解题中的问题。"
+            },
+            {
+                "score": "4分",
+                "description": "有较为系统的反思，但对改进策略的思考不足。"
+            },
+            {
+                "score": "5分",
+                "description": "能够对解题过程进行有效的反思，并提出改进思路。"
+            },
+            {
+                "score": "6分",
+                "description": "深入反思解题过程，并制定具体的改进计划。"
+            },
+            {
+                "score": "7分",
+                "description": "全面、系统地反思解题过程，提出创新性改进建议。 "
+            }
+        ]
+    },
+    {
+        "category": "情绪调节 (Emotional Regulation)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "在解题过程中情绪失控，导致任务无法完成。"
+            },
+            {
+                "score": "2分",
+                "description": "情绪波动明显，影响了解题效率。"
+            },
+            {
+                "score": "3分",
+                "description": "在压力下有一定的情绪管理能力，但不稳定。"
+            },
+            {
+                "score": "4分",
+                "description": "能够在多数情况下保持情绪稳定，但偶尔受挫。"
+            },
+            {
+                "score": "5分",
+                "description": "大部分时间能保持良好的情绪状态，有助于解题。"
+            },
+            {
+                "score": "6分",
+                "description": "在遇到挫折时能迅速调节情绪，保持专注。"
+            },
+            {
+                "score": "7分",
+                "description": "始终保持冷静、积极的情绪状态，有效应对各种挑战。     "
+            }
+        ]
+    },
+    {
+        "category": "策略形成 (Strategy Formulation)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "完全没有尝试形成解题策略。"
+            },
+            {
+                "score": "2分",
+                "description": "对问题的策略形成思路不清晰，策略无效。"
+            },
+            {
+                "score": "3分",
+                "description": "初步提出了策略，但未能有效应用到解题中。"
+            },
+            {
+                "score": "4分",
+                "description": "提出较为明确的策略，但在执行时有所偏差。"
+            },
+            {
+                "score": "5分",
+                "description": "能够形成有效的策略，并初步执行。"
+            },
+            {
+                "score": "6分",
+                "description": "灵活形成多种策略，根据情况调整并执行。"
+            },
+            {
+                "score": "7分",
+                "description": "创新性地提出策略，且能在复杂情境中高效应用。 "
+            }
+        ]
+    },
+    {
+        "category": "假设生成 (Hypothesis Generation)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "完全没有提出假设。"
+            },
+            {
+                "score": "2分",
+                "description": "提出的假设与问题不相关。"
+            },
+            {
+                "score": "3分",
+                "description": "仅提出基本假设，未进一步推测。"
+            },
+            {
+                "score": "4分",
+                "description": "提出合理假设，但深度不足。"
+            },
+            {
+                "score": "5分",
+                "description": "提出清晰、合理的假设，有助于解题。"
+            },
+            {
+                "score": "6分",
+                "description": "提出多种假设，能够灵活应对不同情境。"
+            },
+            {
+                "score": "7分",
+                "description": "提出深入且创新的假设，为问题解决提供新思路。 "
+            }
+        ]
+    },
+    {
+        "category": "推理 (Reasoning)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "缺乏逻辑推理，解题过程混乱。"
+            },
+            {
+                "score": "2分",
+                "description": "推理能力薄弱，导致错误结论。"
+            },
+            {
+                "score": "3分",
+                "description": "能进行基本推理，但有逻辑漏洞。"
+            },
+            {
+                "score": "4分",
+                "description": "推理逻辑较为清晰，但不够深入。"
+            },
+            {
+                "score": "5分",
+                "description": "有效进行逻辑推理，支撑解题过程。"
+            },
+            {
+                "score": "6分",
+                "description": "灵活运用推理，能够验证不同策略的有效性。"
+            },
+            {
+                "score": "7分",
+                "description": "深入、严谨的推理，有效解决复杂问题。 "
+            }
+        ]
+    },
+    {
+        "category": "分解问题 (Problem Decomposition)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "完全无法将问题分解。"
+            },
+            {
+                "score": "2分",
+                "description": "尝试分解问题，但未能有效执行。"
+            },
+            {
+                "score": "3分",
+                "description": "仅能进行简单分解，缺乏系统性。"
+            },
+            {
+                "score": "4分",
+                "description": "对问题有较好的分解，但在细节上不足。"
+            },
+            {
+                "score": "5分",
+                "description": "能够系统地将问题分解为多个子问题。"
+            },
+            {
+                "score": "6分",
+                "description": "高效分解问题，能够优化解题过程。"
+            },
+            {
+                "score": "7分",
+                "description": "创新性地分解复杂问题，显著提升解题效率。 "
+            }
+        ]
+    },
+    {
+        "category": "辅助工具使用 (Drawing Diagrams)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "完全未使用任何辅助工具。"
+            },
+            {
+                "score": "2分",
+                "description": "尝试使用工具，但效果不佳。"
+            },
+            {
+                "score": "3分",
+                "description": "仅基本使用工具，对解题帮助有限。"
+            },
+            {
+                "score": "4分",
+                "description": "工具使用得当，但尚有改进空间。"
+            },
+            {
+                "score": "5分",
+                "description": "能有效使用工具，如图表，来辅助解题。"
+            },
+            {
+                "score": "6分",
+                "description": "灵活使用多种工具，提升解题效率。"
+            },
+            {
+                "score": "7分",
+                "description": "创新性地使用工具，对问题解决起到关键作用。 "
+            }
+        ]
+    },
+    {
+        "category": "自我监控 (Self-Monitoring)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "完全没有自我监控行为。"
+            },
+            {
+                "score": "2分",
+                "description": "监控行为零散且无效。"
+            },
+            {
+                "score": "3分",
+                "description": "仅在遇到问题时偶尔进行监控。"
+            },
+            {
+                "score": "4分",
+                "description": "对解题过程有一定的监控，但不够系统。"
+            },
+            {
+                "score": "5分",
+                "description": "能有效进行自我监控，并根据情况调整策略。"
+            },
+            {
+                "score": "6分",
+                "description": "持续监控解题进程，灵活调整方法。"
+            },
+            {
+                "score": "7分",
+                "description": "高效的自我监控，使解题过程顺畅且高效。 "
+            }
+        ]
+    },
+    {
+        "category": "策略评估 (Strategy Evaluation)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "完全没有评估策略的行为。"
+            },
+            {
+                "score": "2分",
+                "description": "仅在策略失败时进行简单评估。"
+            },
+            {
+                "score": "3分",
+                "description": "对策略进行基本评估，但不深入。"
+            },
+            {
+                "score": "4分",
+                "description": "能较好地评估策略，但在调整上有不足。"
+            },
+            {
+                "score": "5分",
+                "description": "系统评估策略效果，并适时调整。"
+            },
+            {
+                "score": "6分",
+                "description": "灵活评估和调整策略，以优化解题效率。"
+            },
+            {
+                "score": "7分",
+                "description": "全面评估策略，并提出创新性改进方案。 "
+            }
+        ]
+    },
+    {
+        "category": "策略切换 (Strategy Shifting)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "在当前策略失败时仍坚持，不进行切换。"
+            },
+            {
+                "score": "2分",
+                "description": "仅在多次失败后才尝试切换策略。"
+            },
+            {
+                "score": "3分",
+                "description": "能识别策略无效，但切换不及时。"
+            },
+            {
+                "score": "4分",
+                "description": "能适时切换策略，但调整较慢。"
+            },
+            {
+                "score": "5分",
+                "description": "灵活切换策略，提高解题成功率。"
+            },
+            {
+                "score": "6分",
+                "description": "高效识别并切换到更合适的策略。"
+            },
+            {
+                "score": "7分",
+                "description": "在复杂情境中迅速切换策略，实现最优解。 "
+            }
+        ]
+    },
+    {
+        "category": "寻求帮助 (Seeking Help)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "完全不寻求任何帮助。"
+            },
+            {
+                "score": "2分",
+                "description": "尽管遇到困难，但很少寻求帮助。"
+            },
+            {
+                "score": "3分",
+                "description": "在极度困惑时才寻求帮助。"
+            },
+            {
+                "score": "4分",
+                "description": "能适时寻求帮助，但不够主动。"
+            },
+            {
+                "score": "5分",
+                "description": "主动寻求帮助，解决关键问题。"
+            },
+            {
+                "score": "6分",
+                "description": "有效利用外部资源和帮助，提升解题效率。"
+            },
+            {
+                "score": "7分",
+                "description": "灵活运用多种帮助资源，解决复杂问题。 "
+            }
+        ]
+    },
+    {
+        "category": "策略迁移 (Strategy Transfer)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "无法将已掌握的策略应用到新情境中。"
+            },
+            {
+                "score": "2分",
+                "description": "仅在相似情境中进行部分策略迁移。"
+            },
+            {
+                "score": "3分",
+                "description": "尝试将策略应用到新问题，但效果有限。"
+            },
+            {
+                "score": "4分",
+                "description": "在新情境中能部分迁移已掌握策略。"
+            },
+            {
+                "score": "5分",
+                "description": "能有效将策略应用到新情境中。"
+            },
+            {
+                "score": "6分",
+                "description": "灵活迁移策略，提升解决不同问题的能力。"
+            },
+            {
+                "score": "7分",
+                "description": "创新性地将已有策略应用到全新问题。 "
+            }
+        ]
+    },
+    {
+        "category": "处理失败 (Coping with Failure)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "在解题失败后情绪崩溃，放弃继续尝试。"
+            },
+            {
+                "score": "2分",
+                "description": "在解题失败后显著沮丧，虽然继续尝试但缺乏积极性。"
+            },
+            {
+                "score": "3分",
+                "description": "经过一段时间的沮丧后再次尝试，但缺乏有效调整。"
+            },
+            {
+                "score": "4分",
+                "description": "能够克服初步的挫折情绪，但在调整策略时较为缓慢。"
+            },
+            {
+                "score": "5分",
+                "description": "在遇到失败时，情绪控制较好，能积极调整并继续尝试。"
+            },
+            {
+                "score": "6分",
+                "description": "能迅速调整情绪，积极重新评估问题，并尝试新的解决策略。"
+            },
+            {
+                "score": "7分",
+                "description": "在面对失败时保持冷静，自信且有条理地调整策略，并从失败中学习，提升未来的解题能力。 "
+            }
+        ]
+    },
+    {
+        "category": "增强信心 (Enhancing Confidence)",
+        "scores": [
+            {
+                "score": "1分",
+                "description": "在整个解题过程中表现出显著的不自信，无法独立思考。"
+            },
+            {
+                "score": "2分",
+                "description": "即使有成功的尝试，仍缺乏信心去解决类似问题。"
+            },
+            {
+                "score": "3分",
+                "description": "在他人鼓励下有短暂信心，但依然难以保持独立解题的信念。"
+            },
+            {
+                "score": "4分",
+                "description": "能在小范围成功时增强信心，但遇到困难时迅速失去信心。"
+            },
+            {
+                "score": "5分",
+                "description": "随着解题成功逐渐建立起自信，愿意独立尝试解决问题。"
+            },
+            {
+                "score": "6分",
+                "description": "能自我激励，保持较高的信心水平，即使遇到困难也能坚持解题。"
+            },
+            {
+                "score": "7分",
+                "description": "充分信任自己的能力，表现出强烈的解题信念和坚持力，能够自我激励并有效激发他人积极性。"
+            }
+        ]
+    }
+]

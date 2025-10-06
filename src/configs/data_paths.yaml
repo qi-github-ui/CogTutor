@@ -1,0 +1,8 @@
+raw:
+  datashop_dir: data/raw/datashop
+  tutorshop_dir: data/raw/tutorshop
+  external_dir: data/raw/external
+
+interim_dir: data/interim
+processed_dir: data/processed
+eval_dir: data/eval
